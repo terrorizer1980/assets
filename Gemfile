@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'danger'
+gem 'danger', '>= 6.3.2'
 gem 'image_size', '~> 2.0'
-gem 'json-schema'
+gem 'json-schema', '>= 2.8.1'
